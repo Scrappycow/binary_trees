@@ -5,7 +5,7 @@
  * @node: pointer to the node to find next sibling
  * Return: pointer to the sibling node
  *         NULL if node is NULL
- *         NULL if the node has no siblings 
+ *         NULL if the node has no siblings
  *         NULL if the parent is NULL
  */
 
